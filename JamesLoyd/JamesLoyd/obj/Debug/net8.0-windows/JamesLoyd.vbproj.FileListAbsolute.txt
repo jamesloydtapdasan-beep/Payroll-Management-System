@@ -1,0 +1,151 @@
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.exe
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.deps.json
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.runtimeconfig.json
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.AssemblyReference.cache
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Admin.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Attendance.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Employee.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Form1.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Generator.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.User.resources
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.GenerateResource.cache
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfoInputs.cache
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfo.vb
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.CoreCompileInputs.cache
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.Up2Date
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\refint\JamesLoyd.dll
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.genruntimeconfig.cache
+C:\Users\HUAWEI 11th gen\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\ref\JamesLoyd.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.exe
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.deps.json
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.runtimeconfig.json
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.AssemblyReference.cache
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Admin.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmAttendance.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Form1.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.User.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.GenerateResource.cache
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfoInputs.cache
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfo.vb
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.CoreCompileInputs.cache
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.Up2Date
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\refint\JamesLoyd.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.genruntimeconfig.cache
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\ref\JamesLoyd.dll
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmPayroll.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.ManageAccount.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmpPayslip.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.FormFullDetailed.resources
+C:\Users\alyxz\Desktop\PAYROLL SYSTEM\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.exe
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.deps.json
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.runtimeconfig.json
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.AssemblyReference.cache
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Admin.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmAttendance.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.ManageAccount.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Form1.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.FormFullDetailed.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmpPayslip.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmPayroll.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.GenerateResource.cache
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfoInputs.cache
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AssemblyInfo.vb
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.CoreCompileInputs.cache
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.vbproj.Up2Date
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\refint\JamesLoyd.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.pdb
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.genruntimeconfig.cache
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\ref\JamesLoyd.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.EmployeePanel.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AttendanceForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.EmployeePaySlip.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Resources.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.All.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.Controls.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmCameraSelfie.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmPayslipHistory.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffDashboard.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffEmployeeManage.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffAddEmployee.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.Selfie.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffManageAttendance.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffPayrollView.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.frmAdminApprove.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.UserComplaintForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.UserComplaintHistoryForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AddRemarkForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.ReviewComplaintForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.StaffComplaintForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.UpdateStatusForm.resources
+C:\Users\alyxz\OneDrive\Desktop\PAYROLL SYSTEM - Copy\JamesLoyd\JamesLoyd\obj\Debug\net8.0-windows\JamesLoyd.AdminComplaintDashboard.resources
