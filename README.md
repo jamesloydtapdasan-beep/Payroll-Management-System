@@ -13,44 +13,44 @@ Deductions are computed following **Philippine payroll standards** (SSS, PhilHea
 **Main Admin Dashboard**
 Central hub for managing employees, attendance, payroll, payslips, and complaints.
 
-![Admin Main Menu](Images\admin.jfif).
+![Admin Main Menu](Images/AdminDashboard.jfif)
 
 **Employee Management**
 Search, add, edit, and delete employee records. Supports bulk employee import via Excel.
 
-![Employee Management](screenshots/employee-management.jpg)
+![Employee Management](Images/EmployeeManagement.jfif)
 
 **Employee Monitoring Panel**
 Full employee profile management — personal info, contact details, employment info, and photo/selfie capture.
 
-![Employee Monitoring Panel](screenshots/employee-monitoring-panel.jpg)
+![Employee Monitoring Panel](Images/AdminEmlpoyeeCreation.jfif)
 
 **Attendance Management**
 Track total days worked, total hours worked, and last attendance date per employee.
 
-![Manage Attendance](screenshots/manage-attendance.jpg)
+![Manage Attendance](Images/AdminEmployeeAttendance.jfif)
 
 **Payroll Processing**
 Computes gross pay, overtime pay, deductions (SSS, PhilHealth, Pag-IBIG), absences, and net pay. Supports save and approval workflow per pay period.
 
-![Payroll Processing](screenshots/payroll-processing.jpg)
+![Payroll Processing](Images/AdminPayroll.jfif)
 
 **Payslip Generator**
 Generates and downloads individual employee payslips with a breakdown of pay and deductions.
 
-![Payslip Generator](screenshots/payslip-generator.jpg)
+![Payslip Generator](Images/AdminPayslipGenerator.jfif)
 
 **Complaint Dashboard**
 Tracks employee-submitted complaints with status updates (Pending, In Progress, Resolved) and remarks.
 
-![Complaint Dashboard](screenshots/complaint-dashboard.jpg)
+![Complaint Dashboard](Images/AdminComplaintDashboard.jfif)
 
 ### Employee Self-Service
 
 **Employee Dashboard**
 Employees can log morning/afternoon time in-out, view total hours worked and overtime, check their latest payslip, view payslip history, and submit complaints.
 
-![Employee Self-Service Dashboard](screenshots/employee-self-service-dashboard.jpg)
+![Employee Self-Service Dashboard](Images/84837a2d-dfb0-4c8b-adde-12c0e718cb32.jfif)
 
 ---
 
@@ -68,7 +68,7 @@ Employees can log morning/afternoon time in-out, view total hours worked and ove
 ## 📋 Prerequisites
 
 - Visual Studio 2019 or later (with VB.NET / .NET Framework support)
-- MySQL Server (e.g. via XAMPP, WAMP, or standalone MySQL installation)
+- MySQL Server (e.g. via WAMP, XAMPP, or standalone MySQL installation)
 - MySQL Connector/NET (for `MySql.Data.MySqlClient`)
 
 ---
@@ -77,7 +77,7 @@ Employees can log morning/afternoon time in-out, view total hours worked and ove
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/payroll-management-system.git
+   git clone https://github.com/jamesloydtapdasan-beep/Payroll-Management-System.git
    ```
 
 2. **Set up the database**
@@ -100,7 +100,7 @@ Employees can log morning/afternoon time in-out, view total hours worked and ove
 ## 📁 Project Structure
 
 ```
-payroll-management-system/
+Payroll-Management-System/
 ├── JamesLoyd.sln
 ├── JamesLoyd/
 │   ├── Forms/
@@ -109,7 +109,7 @@ payroll-management-system/
 │   └── JamesLoyd.vbproj
 ├── Database/
 │   └── payrolldb.sql
-├── screenshots/
+├── Images/
 ├── .gitignore
 └── README.md
 ```
