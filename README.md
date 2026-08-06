@@ -13,7 +13,7 @@ Deductions are computed following **Philippine payroll standards** (SSS, PhilHea
 **Main Admin Dashboard**
 Central hub for managing employees, attendance, payroll, payslips, and complaints.
 
-![Admin Main Menu](images/admin-main-menu.jpg)
+![Admin Main Menu](images/admin.jfif).
 
 **Employee Management**
 Search, add, edit, and delete employee records. Supports bulk employee import via Excel.
