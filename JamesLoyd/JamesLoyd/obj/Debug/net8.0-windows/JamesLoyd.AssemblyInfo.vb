@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("JamesLoyd"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ac287e4b73f440663f154795cc209f4159d7a70"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("JamesLoyd"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("JamesLoyd"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
